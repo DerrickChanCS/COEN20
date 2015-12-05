@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_workspace_file>
+	<Workspace title="COEN 20 Lab Projects">
+		<Project filename="64x32_Unsigned_Integer_Division/64x32_Unsigned_Integer_Division.ebp" />
+		<Project filename="64x64_Signed_Integer_Multiplication/64x64_Signed_Integer_Multiplication.ebp" />
+		<Project filename="Absolute_Value_Without_Branch/Absolute_Value_Without_Branch.ebp" />
+		<Project filename="Binary_Addition/Binary_Addition.ebp" />
+		<Project filename="Binary_Subtraction/Binary_Subtraction.ebp" />
+		<Project filename="Binary_to_Decimal/Binary_to_Decimal.ebp" />
+		<Project filename="Bit_Field_Clear/Bit_Field_Clear.ebp" />
+		<Project filename="Bit_Field_Insert/Bit_Field_Insert.ebp" />
+		<Project filename="Count_Leading_Zeroes/Count_Leading_Zeroes.ebp" />
+		<Project filename="Decimal_to_Binary/Decimal_to_Binary.ebp" />
+		<Project filename="Discriminant_Without_Branch/Discriminant_Without_Branch.ebp" />
+		<Project filename="Exponentiation_With_Loop/Exponentiation_With_Loop.ebp" />
+		<Project filename="Reverse_Bit_Order/Reverse_Bit_Order.ebp" />
+		<Project filename="Reverse_Byte_Order/Reverse_Byte_Order.ebp" />
+		<Project filename="Signed_Binary_Multiplication/Signed_Binary_Multiplication.ebp" />
+		<Project filename="Signed_Bit_Field_Extract/Signed_Bit_Field_Extract.ebp" />
+		<Project filename="Square_Root_With_Loop/Square_Root_With_Loop.ebp" />
+		<Project filename="Twos_Complement/Twos_Complement.ebp" />
+		<Project filename="Unsigned_Bit_Field_Extract/Unsigned_Bit_Field_Extract.ebp" active="1" />
+	</Workspace>
+</EmBitz_workspace_file>
